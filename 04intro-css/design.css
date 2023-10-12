@@ -37,7 +37,7 @@ nav ul li a{
     color: #FFF1D0;
     font-weight: 700;
     display: block;
-    padding: .68rem 1rem;
+    padding: .75rem 1rem;
 }
 nav li.active a{
     background-color:#024873; 
