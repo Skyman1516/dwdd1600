@@ -27,7 +27,7 @@ nav{
 }
 nav ul{
     list-style-type: none;
-    padding: 0 1.5vw;
+    padding: 0 2vw;
     margin: 0;
     display: flex;
 }
@@ -37,7 +37,7 @@ nav ul li a{
     color: #FFF1D0;
     font-weight: 700;
     display: block;
-    padding: .5rem .8rem;
+    padding: .68rem 1rem;
 }
 nav li.active a{
     background-color:#024873; 
