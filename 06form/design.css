@@ -146,11 +146,11 @@ div.snkrgallery figcaption {
 .myForm label {
     margin: .5rem;
 }
-.myForm label, .myForm select, .myForm [type=text], .myForm [type=tel], .myForm textarea {
+.myForm label, .myForm select, .myForm [type=text], .myForm [type=tel], .myForm [type=email], .myForm textarea {
     display: block;
 }
 
-.myForm [type=text], .myForm [type=tel], .myForm select, .myForm textarea 
+.myForm [type=text], .myForm [type=tel], .myForm [type=email], .myForm select, .myForm textarea
 {
     border: solid 1px #888;
     padding: .3rem;
