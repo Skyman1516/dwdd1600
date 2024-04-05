@@ -39,7 +39,7 @@ nav ul li a{
     display: block;
     padding: .75rem 1rem;
 }
-nav li.active a{
+nav li.active a {
     background-color:#024873; 
     color:#f2b705;
 }
